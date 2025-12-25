@@ -1,28 +1,120 @@
-<h1 align="center">Hi 👋, I'm Backend Developer</h1>
-<h3 align="center">A passionate Backend developer from Uzbekistan</h3>
+<h1 align="center">Hi 👋, I'm Azamat Mamarajabov</h1>
+<h3 align="center">Laravel / PHP Backend Developer from Uzbekistan 🇺🇿</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=azamatmamarajabov&label=Profile%20views&color=0e75b6&style=flat" alt="azamatmamarajabov" /> </p>
+<p align="center">
+  <a href="https://github.com/azamatmamarajabov">
+    <img src="https://komarev.com/ghpvc/?username=azamatmamarajabov&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  </a>
+</p>
 
+---
 
+## 👨‍💻 About Me
 
-- 🌱 I’m currently learning **All programming directions**
+I am a **Backend Developer (Junior → Middle)** with real experience in **commercial and startup projects**.  
+I specialize in building **scalable, secure, and production-ready web applications** using Laravel.
 
-- 👨‍💻 All of my projects are available at [https://www.azamatjon.uz/](https://www.azamatjon.uz/)
+I focus on:
+- Clean and maintainable code
+- Business-oriented backend solutions
+- Real-world project architecture
 
-- 📝 I regularly write articles on [https://www.azamatjon.uz/](https://www.azamatjon.uz/)
+---
 
-- 💬 Ask me about **php,laravel,livewire,voyager,git,github,reset-api**
+## 🚀 Tech Stack
 
-- 📫 How to reach me **azamatmamarajabov88@gmail.com**
+**Backend:**
+- PHP
+- Laravel
+- Livewire
+- REST API
+- MVC Architecture
 
-- 📄 Know about my experiences [https://www.azamatjon.uz/](https://www.azamatjon.uz/)
+**Frontend (Basic):**
+- HTML
+- CSS
+- JavaScript
+- Bootstrap / Tailwind CSS
+- Vue.js (basic)
 
+**Database:**
+- MySQL
+- MongoDB (basic)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gulpjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gulp/gulp-plain.svg" alt="gulp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+**Tools & DevOps:**
+- Git & GitHub
+- Linux (basic)
+- VPS / Hosting (basic)
+- Voyager Admin Panel
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=azamatmamarajabov&show_icons=true&locale=en&layout=compact" alt="azamatmamarajabov" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=azamatmamarajabov&show_icons=true&locale=en" alt="azamatmamarajabov" /></p>
+## 💼 Real Commercial Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=azamatmamarajabov&" alt="azamatmamarajabov" /></p>
+- 🏢 **Kafil Insurance** – https://kafil.uz  
+  _Corporate insurance website_
+
+- 🚀 **EduCoin Startup** – https://educoin.uz | https://educoinapp.uz  
+  _Startup web platform_
+
+- 🌍 **DORA® International Marketing Company** – https://dora.uz  
+  _Marketing company website_
+
+- 🥣 **Rokki Breakfast Brand** – https://rokki.uz  
+  _Brand & product website_
+
+> 🔒 Source code is private. Public repositories demonstrate similar architecture and solutions.
+
+---
+
+## 📌 Featured Demo Projects
+
+- `laravel-product-management`
+- `laravel-auth-admin-panel`
+- `laravel-multilingual-website`
+- `laravel-rest-api-backend`
+
+Each demo project includes:
+- Authentication & authorization
+- Admin panel
+- CRUD operations
+- Validation & security best practices
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Laravel architecture
+- API optimization & security
+- Clean code & best practices
+
+---
+
+## 🌐 Portfolio & Articles
+
+- 🌍 Portfolio: https://www.azamatjon.uz  
+- 📝 Articles & tutorials: https://www.azamatjon.uz  
+
+---
+
+## 📫 Contact Me
+
+- 📧 Email: **azamatmamarajabov88@gmail.com**
+- 💻 GitHub: https://github.com/azamatmamarajabov
+- ✈️ Telegram: **@akramov_azamat1**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=azamatmamarajabov&show_icons=true&theme=default" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azamatmamarajabov&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=azamatmamarajabov" />
+</p>
